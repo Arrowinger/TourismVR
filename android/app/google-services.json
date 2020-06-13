@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1026369835937",
+    "firebase_url": "https://tourismappv1.firebaseio.com",
+    "project_id": "tourismappv1",
+    "storage_bucket": "tourismappv1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026369835937:android:de6e73796bd455e89bb1e0",
+        "android_client_info": {
+          "package_name": "com.example.andaman_nicbar_island"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026369835937-ediok9cbhfr3j8n6qa09chq2pun7l1qh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEsdr4TJCyvdwEXs32kNAtVPn-NkJgoeU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026369835937-ediok9cbhfr3j8n6qa09chq2pun7l1qh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
